@@ -1,4 +1,4 @@
-![AI아이디어랩_최종제출6](https://github.com/user-attachments/assets/ced4e36c-381d-4ba1-95b7-4681efe5c9a1)## AIVOID YONSEI
+## AIVOID YONSEI
 
 **지금, 당신의 목소리는 안전한가요?**
 
