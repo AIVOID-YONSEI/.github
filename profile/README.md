@@ -1,12 +1,9 @@
-## Hi there 👋
+## AIVOID YONSEI
 
-<!--
+**지금, 당신의 목소리는 안전한가요?**
 
-**Here are some ideas to get you started:**
+- 연세대학교 2024년도 1학기 ICT 경영 1조
+- 2024년도 코드게이트 글로벌 AI아이디어랩 공모전 AIVOID팀
+- 📌 [Landing Page](https://aivoid-saas-client.pages.dev)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+![image](https://github.com/user-attachments/assets/08f22d24-3595-43ef-9bac-361134c233c5)
